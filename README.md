@@ -1,3 +1,6 @@
+### 📜 Archived Repository
+🌱 This repository has been archived, representing a phase of my earlier developmental explorations.
+
 # gwanli-bot
 A discord moderation bot that focuses on Korean users
 
